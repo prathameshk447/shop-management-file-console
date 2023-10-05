@@ -1,0 +1,2 @@
+colgate,col123,20,2,2
+suger,su123,40,1kg,1kg
